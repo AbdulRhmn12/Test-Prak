@@ -230,6 +230,7 @@ int main()
 
   cout << "Gondol";
   cout << "Abdol bgsd";
+  cout << "aku ganteng";
 
   for (int i = 0; i < 10; i++)
   {
